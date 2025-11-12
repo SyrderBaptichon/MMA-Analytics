@@ -1,0 +1,9 @@
+CONTEXT.md
+plan.txt
+
+/target/
+/docs/
+
+.dockerignore
+*.gitkeep
+.vscode/
